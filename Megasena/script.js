@@ -17,7 +17,7 @@ const blf = document.getElementById("call-lotofacil");
   
   // code to call another program
   // for example, redirect to another HTML page:
-  window.location.href = '/GeraLoto/Lotofacil/index.html';
+  window.location.href = '/GeraLoto/index.html';
   
 });
 
