@@ -1,14 +1,14 @@
 
 let valores = {15:2.50, 16: 40.00, 17:340.00, 18: 2040.00, 19 : 9690.00, 20: 38760.00};
-//const blf = document.getElementById("call-lotofacil");
+const blf = document.getElementById("call-lotofacil");
 
- // blf.addEventListener('click', () => {
+  blf.addEventListener('click', () => {
   
   // code to call another program
   // for example, redirect to another HTML page:
-  //window.location.href = '/GeraLoto/index.html';
+  window.location.href = '/GeraLoto/index.html';
   
-//});
+});
 
 
 const blm = document.getElementById("call-lotomania");
